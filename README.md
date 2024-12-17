@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+-->
+
 # Welcome to ExecuteAutomation Repo! 👋
 
 Hey there! I’m Karthik KK, a software test consultant based in Auckland, New Zealand. I’m a big fan of writing clean and efficient test code, and I absolutely love the exciting and challenging world of testing tech. When I’m not testing, you can find me contributing to technical articles on my blog. I’ve even published over 33 courses on Udemy and almost 1000+ YouTube videos!
@@ -67,8 +70,5 @@ Feel free to ask me anything related to testing and testing trends. If I don’t
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/karthikkk#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/karthikkk#gh-dark-mode-only)
-
-
--->
 
 
