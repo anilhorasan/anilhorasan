@@ -17,41 +17,48 @@ Here are some ideas to get you started:
 
 -->
 
-# Welcome to ExecuteAutomation Repo! 👋
+# Welcome All! 👋
 
-Hey there! I’m Karthik KK, a software test consultant based in Auckland, New Zealand. I’m a big fan of writing clean and efficient test code, and I absolutely love the exciting and challenging world of testing tech. When I’m not testing, you can find me contributing to technical articles on my blog. I’ve even published over 33 courses on Udemy and almost 1000+ YouTube videos!
-
-📚🚀 Community Contribution & Courses
-
-* Udemy: https://www.udemy.com/user/karthik-kk/
-* YouTube: https://www.youtube.com/executeautomation
-* Medium: http://medium.com/executeautomation
+I’m Anil Horasan, a software test engineer based in Toronto, Canada. 
+I was an entrepreneur and software developer back in Türkiye.
+But I got PR from Canada, and moved to Toronto in November 2024! 
+Currently, I am looking for my first job here as Software Development Engineer in Test. 
+I’m a big fan of writing clean and efficient test code, and I absolutely love the exciting and challenging world of testing tech. 
+When I’m not testing, you can find me playing tennis or contributing to technical articles on my blog. 
 
 ⚡ Tech Stacks
 
-- Testing Tools: Playwright, Selenium, Cypress, RestSharp, RestAssured, Pact.NET, Specflow, Cucumber and more...
-- Languages: JavaScript (Node.js), TypeScript, C#, Java, Dart
-- Databases: MongoDB, PostgreSQL, MySQL, MS SQL
-- DevOps: Docker, Jenkins, AWS, Azure
-- Frontend: React, Angular, Vue.js
-- Others: ASP.NET MVC, GraphQL, Entity Framework, Outbox pattern, BDD, Page Object Model, FluentAssertion and more...
+
+- Languages: Java, JavaScript, Python
+- Testing Frameworks: Selenium, Rest Assured, Postman, JUnit
+- Testing Tools: JUnit, TestNG, Selenium Grid, Jenkins, Cucumber, Newman, GraphQL, OAuth2.0, AutoIT
+- Databases: MongoDB, PostgreSQL, MySQL
+
+📚🚀 Community Contribution & Courses
+
+* YouTube: https://www.youtube.com/anilhorasan
+* Medium: http://medium.com/horasantesting
 
 🏆 GitHub Stats
 
-[![ExecuteAutomation's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=executeautomation&show_icons=true&count_private=true&theme=dracula#gh-dark-mode-only)](https://github.com/executeautomation/github-readme-stats#gh-dark-mode-only)
-[![ExecuteAutomation's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=executeautomation&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/executeautomation/github-readme-stats#gh-light-mode-only)
+🏆 GitHub Stats
+
+[![Anıl Horasan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=herbisey&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/herbisey/github-readme-stats#gh-light-mode-only)
+[![Anıl Horasan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=herbisey&show_icons=true&count_private=true&theme=dracula#gh-dark-mode-only)](https://github.com/herbisey/github-readme-stats#gh-dark-mode-only)
+
 
 ⚡️ Top Languages
 
-[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=executeautomation&hide_progress=false&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/executeautomation/github-readme-stats#gh-dark-mode-only)
-[![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=executeautomation&hide_progress=false&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/executeautomation/github-readme-stats#gh-light-mode-only)
+[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=herbisey&hide_progress=false&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/herbisey/github-readme-stats#gh-dark-mode-only)
+[![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=herbisey&hide_progress=false&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/herbisey/github-readme-stats#gh-light-mode-only)
 
 🌱 Currently diving deeper into
 
-* Machine Learning 🦾
-* Linux 🐧
+* Job Applications
+* Mobile Testing 🦾
 * Security Testing 🔐
-* Updating my Udemy courses 🤯
+* Linux 🐧
+* Updating my blog posts 🤯
 
 💬 Ask me about
 
@@ -59,16 +66,19 @@ Feel free to ask me anything related to testing and testing trends. If I don’t
 
 📫 Connect with me
 
-[![website](./img/globe-light.svg)](https://executeautomation.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://executeautomation.com#gh-dark-mode-only)
+[![website-light](./img/globe-light.svg)](https://www.mobirob.com/index_en.html#gh-light-mode-only)
+[![website-dark](./img/globe-dark.svg)](https://www.mobirob.com/index_en.html#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/executeautomation#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/executeautomation#gh-dark-mode-only)
+[![instagram-light](./img/instagram-light.svg)](https://www.instagram.com/anilhorasan/#gh-light-mode-only)
+[![instagram-dark](./img/instagram-dark.svg)](https://www.instagram.com/anilhorasan/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/executeauto#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/executeauto#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/karthikkk#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/karthikkk#gh-dark-mode-only)
+[![linkedin-light](./img/linkedin-light.svg)](https://www.linkedin.com/in/anil-horasan/#gh-light-mode-only)
+[![linkedin-dark](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anil-horasan/#gh-dark-mode-only)
+
+
+Extracirricular
+
+🎶 I play saz (a Turkish traditional musical instrument) My fav: https://www.youtube.com/watch?v=p3Jtm44EKZc&ab_channel=anilhorasan
+🎾 I play tennis. Competitively. My fav player is Novak Djokovic 
 
 
