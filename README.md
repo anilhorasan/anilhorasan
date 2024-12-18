@@ -14,6 +14,12 @@
 - But I received permanent residency in Canada and relocated to Toronto!
 - I am actively pursuing opportunities as a Software Development Engineer in Test (SDET) in Toronto, Canada.
 - Driving quality through clean, efficient test automation.
+- 
+- A software test engineer based in Toronto, Canada.
+- Previously an entrepreneur and software developer in Türkiye.
+- Received permanent residency in Canada and relocated to Toronto in October 2024.
+- Actively seeking opportunities as a Software Development Engineer in Test (SDET).
+- Focused on driving quality through clean and efficient test automation.
 
 
 ⚡ Tech Stacks
@@ -63,9 +69,9 @@
 [![linkedin-dark](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anil-horasan/#gh-dark-mode-only)
 
 
-Extracirricular
+🐣 Extracurricular
 
-🎶 I play saz (a Turkish traditional musical instrument) My fav: https://www.youtube.com/watch?v=p3Jtm44EKZc&ab_channel=anilhorasan  
+🎶 I play saz (a Turkish traditional musical instrument) My favorite play --> [link](https://www.youtube.com/watch?v=p3Jtm44EKZc&ab_channel=anilhorasan)
 🎾 I play tennis. Competitively. My fav player is Novak Djokovic   
 
 
