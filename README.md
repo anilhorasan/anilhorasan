@@ -1,45 +1,34 @@
-## Hi there 👋
+shields.io badges examples: 
 
-<!--
-**herbisey/herbisey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Java](https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=java)
+![Selenium](https://img.shields.io/badge/Test-Selenium-green?style=flat-square&logo=selenium)
+![Postman](https://img.shields.io/badge/API-Postman-orange?style=flat-square&logo=postman)
+![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-blue?style=flat-square&logo=jenkins)
 
 
--->
 
 # Welcome All! 👋
 
-I’m Anil Horasan, a software test engineer based in Toronto, Canada. 
-I was an entrepreneur and software developer back in Türkiye.
-But I got PR from Canada, and moved to Toronto in November 2024! 
-Currently, I am looking for my first job here as Software Development Engineer in Test. 
-I’m a big fan of writing clean and efficient test code, and I absolutely love the exciting and challenging world of testing tech. 
-When I’m not testing, you can find me playing tennis or contributing to technical articles on my blog. 
+I’m Anil Horasan, a software test engineer based in Toronto, Canada.  
+I was an entrepreneur and software developer back in Türkiye.  
+But I received permanent residency in Canada and relocated to Toronto!  
+I am actively pursuing opportunities as a Software Development Engineer in Test (SDET) in Toronto, Canada.  
+Driving quality through clean, efficient test automation.
+
 
 ⚡ Tech Stacks
 
+- **Languages:** Java, JavaScript, Python
+- **Testing Frameworks:** Selenium, Rest Assured, Postman, JUnit, TestNG, Cucumber
+- **Testing Tools:** Selenium Grid, Jenkins, Cucumber, Newman, GraphQL, OAuth2.0, AutoIT
+- **Databases:** MongoDB, PostgreSQL, MySQL
 
-- Languages: Java, JavaScript, Python
-- Testing Frameworks: Selenium, Rest Assured, Postman, JUnit
-- Testing Tools: JUnit, TestNG, Selenium Grid, Jenkins, Cucumber, Newman, GraphQL, OAuth2.0, AutoIT
-- Databases: MongoDB, PostgreSQL, MySQL
 
 📚🚀 Community Contribution & Courses
 
-* YouTube: https://www.youtube.com/anilhorasan
-* Medium: http://medium.com/horasantesting
+* YouTube: https://www.youtube.com/@anilhorasan-90
+* Medium: https://medium.com/@anilhorasan
 
-🏆 GitHub Stats
 
 🏆 GitHub Stats
 
@@ -52,6 +41,7 @@ When I’m not testing, you can find me playing tennis or contributing to techni
 [![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=herbisey&hide_progress=false&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/herbisey/github-readme-stats#gh-dark-mode-only)
 [![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=herbisey&hide_progress=false&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/herbisey/github-readme-stats#gh-light-mode-only)
 
+
 🌱 Currently diving deeper into
 
 * Job Applications
@@ -60,9 +50,6 @@ When I’m not testing, you can find me playing tennis or contributing to techni
 * Linux 🐧
 * Updating my blog posts 🤯
 
-💬 Ask me about
-
-Feel free to ask me anything related to testing and testing trends. If I don’t know the answer, I’ll learn something new too!
 
 📫 Connect with me
 
@@ -78,7 +65,7 @@ Feel free to ask me anything related to testing and testing trends. If I don’t
 
 Extracirricular
 
-🎶 I play saz (a Turkish traditional musical instrument) My fav: https://www.youtube.com/watch?v=p3Jtm44EKZc&ab_channel=anilhorasan
-🎾 I play tennis. Competitively. My fav player is Novak Djokovic 
+🎶 I play saz (a Turkish traditional musical instrument) My fav: https://www.youtube.com/watch?v=p3Jtm44EKZc&ab_channel=anilhorasan  
+🎾 I play tennis. Competitively. My fav player is Novak Djokovic   
 
 
