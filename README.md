@@ -8,13 +8,6 @@
 ![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-blue?style=flat-square&logo=jenkins)
 
 
-
-- I’m Anil Horasan, a software test engineer based in Toronto, Canada.
-- I was an entrepreneur and software developer back in Türkiye.
-- But I received permanent residency in Canada and relocated to Toronto!
-- I am actively pursuing opportunities as a Software Development Engineer in Test (SDET) in Toronto, Canada.
-- Driving quality through clean, efficient test automation.
-- 
 - A software test engineer based in Toronto, Canada.
 - Previously an entrepreneur and software developer in Türkiye.
 - Received permanent residency in Canada and relocated to Toronto in October 2024.
@@ -71,7 +64,7 @@
 
 🐣 Extracurricular
 
-🎶 I play saz (a Turkish traditional musical instrument) My favorite play --> [link](https://www.youtube.com/watch?v=p3Jtm44EKZc&ab_channel=anilhorasan)
+🎶 I play saz (a Turkish traditional musical instrument) My favorite play --> [link](https://www.youtube.com/watch?v=p3Jtm44EKZc&ab_channel=anilhorasan)  
 🎾 I play tennis. Competitively. My fav player is Novak Djokovic   
 
 
