@@ -1,4 +1,6 @@
-shields.io badges examples: 
+
+# Welcome All! 👋
+
 
 ![Java](https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=java)
 ![Selenium](https://img.shields.io/badge/Test-Selenium-green?style=flat-square&logo=selenium)
@@ -7,13 +9,11 @@ shields.io badges examples:
 
 
 
-# Welcome All! 👋
-
-I’m Anil Horasan, a software test engineer based in Toronto, Canada.  
-I was an entrepreneur and software developer back in Türkiye.  
-But I received permanent residency in Canada and relocated to Toronto!  
-I am actively pursuing opportunities as a Software Development Engineer in Test (SDET) in Toronto, Canada.  
-Driving quality through clean, efficient test automation.
+- I’m Anil Horasan, a software test engineer based in Toronto, Canada.
+- I was an entrepreneur and software developer back in Türkiye.
+- But I received permanent residency in Canada and relocated to Toronto!
+- I am actively pursuing opportunities as a Software Development Engineer in Test (SDET) in Toronto, Canada.
+- Driving quality through clean, efficient test automation.
 
 
 ⚡ Tech Stacks
