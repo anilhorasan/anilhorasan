@@ -45,9 +45,8 @@
 
 * Job Applications
 * Mobile Testing 🦾
-* Security Testing 🔐
-* Linux 🐧
-* Updating my blog posts 🤯
+* API Testing 🔐
+* LeetCode Problems 🐧
 
 
 📫 Connect with me
