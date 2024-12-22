@@ -31,14 +31,14 @@
 
 🏆 GitHub Stats
 
-[![Anıl Horasan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=herbisey&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/herbisey/github-readme-stats#gh-light-mode-only)
-[![Anıl Horasan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=herbisey&show_icons=true&count_private=true&theme=dracula#gh-dark-mode-only)](https://github.com/herbisey/github-readme-stats#gh-dark-mode-only)
+[![Anıl Horasan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anilhorasan&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/anilhorasan/github-readme-stats#gh-light-mode-only)
+[![Anıl Horasan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anilhorasan&show_icons=true&count_private=true&theme=dracula#gh-dark-mode-only)](https://github.com/anilhorasan/github-readme-stats#gh-dark-mode-only)
 
 
 ⚡️ Top Languages
 
-[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=herbisey&hide_progress=false&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/herbisey/github-readme-stats#gh-dark-mode-only)
-[![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=herbisey&hide_progress=false&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/herbisey/github-readme-stats#gh-light-mode-only)
+[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=anilhorasan&hide_progress=false&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anilhorasan/github-readme-stats#gh-dark-mode-only)
+[![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=anilhorasan&hide_progress=false&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anilhorasan/github-readme-stats#gh-light-mode-only)
 
 
 🌱 Currently diving deeper into
