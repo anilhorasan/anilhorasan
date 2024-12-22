@@ -23,12 +23,6 @@
 - **Databases:** MongoDB, PostgreSQL, MySQL
 
 
-📚🚀 Community Contribution & Courses
-
-* YouTube: https://www.youtube.com/@anilhorasan-90
-* Medium: https://medium.com/@anilhorasan
-
-
 🏆 GitHub Stats
 
 [![Anıl Horasan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anilhorasan&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/anilhorasan/github-readme-stats#gh-light-mode-only)
