@@ -37,10 +37,9 @@
 
 🌱 Currently diving deeper into
 
-* Job Applications
-* Mobile Testing 🦾
-* API Testing 🔐
-* LeetCode Problems 🐧
+* Job Applications 🕵
+* Testing Project 📌
+* LeetCode Problems ☑
 
 
 📫 Connect with me
