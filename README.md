@@ -18,7 +18,7 @@
 ⚡ Tech Stacks
 
 - **Languages:** Java, JavaScript, Python
-- **Testing Frameworks:** Selenium, Rest Assured, Postman, JUnit, TestNG, Cucumber
+- **Testing Frameworks:** Selenium, Playwright, Cypress, Rest Assured, Postman, JUnit, TestNG
 - **Testing Tools:** Selenium Grid, Jenkins, Cucumber, Newman, GraphQL, OAuth2.0, AutoIT
 - **Databases:** MongoDB, PostgreSQL, MySQL
 
